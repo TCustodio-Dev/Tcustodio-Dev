@@ -46,6 +46,5 @@ Se conecta comigo e acompanha minha jornada rumo ao desenvolvimento profissional
 
 ### 🤝 Conecte-se
 
-[![LinkedIn](https://img.shields.io/badge/-ThiagoCustódio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)  
-*(Atualize aqui com o seu link real quando quiser)*
+[![LinkedIn](https://img.shields.io/badge/-ThiagoCustódio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
 
