@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Thiago Custódio 👋</h1>
+<h1 align="center">Olá! Eu sou o Thiago Custódio. 👋</h1>
 
 <p align="center">
 Desenvolvedor Back-End em formação | Foco em C#, ASP.NET Core e SQL Server. 💻🚀
