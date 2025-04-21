@@ -1,18 +1,18 @@
 <h1 align="center">Olá! Eu sou o Thiago Custódio 👋</h1>
 
 <p align="center">
-Desenvolvedor Back-End em formação | Foco em C#, ASP.NET Core e SQL Server 💻🚀
+Desenvolvedor Back-End em formação | Foco em C#, ASP.NET Core e SQL Server. 💻🚀
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎯 Focado na transição de carreira para área de desenvolvimento de software
+- 🎯 Focado na transição de carreira para área de desenvolvimento de software.
 - 💡 Estudando **C#**, **POO**, **ASP.NET Core**, **APIs REST** e **SQL Server**
-- 🧠 Aprimorando lógica de programação, estruturas de controle e boas práticas
-- 🛠️ Em breve: **Entity Framework**, **Autenticação**, **WinForms** e projetos reais
-- 📘 Montando projetos práticos para consolidar o aprendizado e montar portfólio
+- 🧠 Aprimorando lógica de programação, estruturas de controle e boas práticas.
+- 🛠️ Em breve: **Entity Framework**, **Autenticação**, **WinForms** e projetos reais.
+- 📘 Montando projetos práticos para consolidar o aprendizado e montar portfólio.
 
 ---
 
@@ -44,7 +44,7 @@ Se conecta comigo e acompanha minha jornada rumo ao desenvolvimento profissional
 
 ---
 
-### 🤝 Conecte-se
+### 🤝 Conecte-se. :D
 
 [![LinkedIn](https://img.shields.io/badge/-ThiagoCustódio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
 
