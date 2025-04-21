@@ -16,7 +16,7 @@ Desenvolvedor Back-End em formação | Foco em C#, ASP.NET Core e SQL Server. �
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo
+### 🛠️ Tecnologias que estou aprendendo!
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
