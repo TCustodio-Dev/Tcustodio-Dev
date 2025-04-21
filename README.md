@@ -32,11 +32,11 @@ Aqui você encontra meus estudos e projetos com foco em:
 - C# e fundamentos da programação.
 - Criação de APIs com ASP.NET Core.
 - Integração com SQL Server.
-- Práticas de versionamento com Git e GitHub
+- Práticas de versionamento com Git e GitHub.
 
 ---
 
-### 📈 Em constante evolução
+### 📈 Em constante evolução!
 
 > “Todo dia um passo. Toda semana um progresso. Todo mês um novo nível.”
 
