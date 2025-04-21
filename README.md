@@ -26,12 +26,12 @@ Desenvolvedor Back-End em formação | Foco em C#, ASP.NET Core e SQL Server. �
 
 ---
 
-### 📂 Repositórios em destaque
+### 📂 Repositórios em destaque.
 
 Aqui você encontra meus estudos e projetos com foco em:
-- C# e fundamentos da programação
-- Criação de APIs com ASP.NET Core
-- Integração com SQL Server
+- C# e fundamentos da programação.
+- Criação de APIs com ASP.NET Core.
+- Integração com SQL Server.
 - Práticas de versionamento com Git e GitHub
 
 ---
